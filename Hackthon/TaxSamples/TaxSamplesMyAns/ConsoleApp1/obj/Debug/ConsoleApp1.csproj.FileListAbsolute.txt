@@ -1,0 +1,2 @@
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

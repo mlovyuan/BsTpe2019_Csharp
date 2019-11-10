@@ -1,0 +1,6 @@
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\obj\Debug\OddEventSample001.csproj.CoreCompileInputs.cache
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\bin\Debug\OddEventSample001.exe.config
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\bin\Debug\OddEventSample001.exe
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\bin\Debug\OddEventSample001.pdb
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\obj\Debug\OddEventSample001.exe
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\OddEventSample001\obj\Debug\OddEventSample001.pdb

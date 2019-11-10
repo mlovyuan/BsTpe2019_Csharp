@@ -1,0 +1,7 @@
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\bin\Debug\hw4-3.exe.config
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\bin\Debug\hw4-3.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\bin\Debug\hw4-3.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\obj\Debug\hw4-3.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\obj\Debug\hw4-3.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\obj\Debug\hw4-3.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-3\obj\Debug\hw4-3.pdb

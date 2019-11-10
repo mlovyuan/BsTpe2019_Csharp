@@ -1,0 +1,10 @@
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.Form1.resources
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.Properties.Resources.resources
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.csproj.GenerateResource.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\bin\Debug\hw3_WFP2.exe.config
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\bin\Debug\hw3_WFP2.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\bin\Debug\hw3_WFP2.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw3\hw3_WFP\hw3_WFP2\obj\Debug\hw3_WFP2.pdb

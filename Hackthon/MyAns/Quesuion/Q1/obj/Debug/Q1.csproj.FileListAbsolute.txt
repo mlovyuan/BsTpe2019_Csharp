@@ -1,0 +1,7 @@
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\bin\Debug\Q1.exe.config
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\bin\Debug\Q1.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\bin\Debug\Q1.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\obj\Debug\Q1.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\MyAns\Quesuion\Q1\obj\Debug\Q1.pdb

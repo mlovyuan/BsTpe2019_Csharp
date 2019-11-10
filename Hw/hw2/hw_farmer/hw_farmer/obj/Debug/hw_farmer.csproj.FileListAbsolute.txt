@@ -1,0 +1,10 @@
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.Form1.resources
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.Properties.Resources.resources
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.csproj.GenerateResource.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\bin\Debug\hw_farmer.exe.config
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\bin\Debug\hw_farmer.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\bin\Debug\hw_farmer.pdb
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH2\hw\hw_farmer\hw_farmer\obj\Debug\hw_farmer.pdb

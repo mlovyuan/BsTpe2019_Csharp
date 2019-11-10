@@ -1,0 +1,12 @@
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\hw4-2Tests.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\hw4-2Tests.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\hw4-2.exe
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\hw4-2.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\hw4-2.exe.config
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\obj\Debug\hw4-2Tests.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\obj\Debug\hw4-2Tests.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\obj\Debug\hw4-2Tests.csproj.CopyComplete
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\obj\Debug\hw4-2Tests.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hw\hw4\hw4\hw4-2Tests\obj\Debug\hw4-2Tests.pdb

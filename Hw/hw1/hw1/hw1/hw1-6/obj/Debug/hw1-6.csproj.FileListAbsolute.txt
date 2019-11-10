@@ -1,0 +1,7 @@
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\bin\Debug\hw1-6.exe.config
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\bin\Debug\hw1-6.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\bin\Debug\hw1-6.pdb
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\obj\Debug\hw1-6.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\obj\Debug\hw1-6.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\obj\Debug\hw1-6.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1\hw1\hw1-6\obj\Debug\hw1-6.pdb

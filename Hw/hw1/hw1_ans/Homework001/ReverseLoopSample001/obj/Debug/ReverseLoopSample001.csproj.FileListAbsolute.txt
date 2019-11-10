@@ -1,0 +1,14 @@
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.exe.config
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.exe
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.pdb
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.csproj.CoreCompileInputs.cache
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.exe
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.pdb
+C:\BuildSchool\北科大\ntut2019\homework\1\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.exe.config
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\bin\Debug\ReverseLoopSample001.pdb
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.exe
+C:\Users\awey1\Desktop\Learn\C#\BS_2019_NTUT\CH1\hw\hw1_ans\Homework001\ReverseLoopSample001\obj\Debug\ReverseLoopSample001.pdb

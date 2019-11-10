@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLibrarySample001", "TaxLibrarySample001\TaxLibrarySample001.csproj", "{1571C010-A6FE-4F2C-A3B3-8CA773E636BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLibrarySample001Tests1", "TaxLibrarySample001Tests1\TaxLibrarySample001Tests1.csproj", "{94846019-F4D7-45EB-BD1C-FAD31B03626E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1571C010-A6FE-4F2C-A3B3-8CA773E636BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1571C010-A6FE-4F2C-A3B3-8CA773E636BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1571C010-A6FE-4F2C-A3B3-8CA773E636BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1571C010-A6FE-4F2C-A3B3-8CA773E636BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94846019-F4D7-45EB-BD1C-FAD31B03626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94846019-F4D7-45EB-BD1C-FAD31B03626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94846019-F4D7-45EB-BD1C-FAD31B03626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94846019-F4D7-45EB-BD1C-FAD31B03626E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC011143-2C40-4E8D-8604-E3D33406C7C4}
+	EndGlobalSection
+EndGlobal

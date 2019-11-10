@@ -1,0 +1,25 @@
+c:\users\bill_\documents\visual studio 2017\Projects\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.dll
+c:\users\bill_\documents\visual studio 2017\Projects\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.pdb
+c:\users\bill_\documents\visual studio 2017\Projects\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.dll
+c:\users\bill_\documents\visual studio 2017\Projects\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.pdb
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.dll
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.pdb
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.csprojAssemblyReference.cache
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.csproj.CoreCompileInputs.cache
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.dll
+C:\SkillTree\AdvancedDesignPatterns\DPSamples\Samples\TaxPracticeSample3\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.pdb
+C:\BuildSchool\北科大\ntut2019\EmptyTaxSample\TaxSamples\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.dll
+C:\BuildSchool\北科大\ntut2019\EmptyTaxSample\TaxSamples\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.pdb
+C:\BuildSchool\北科大\ntut2019\EmptyTaxSample\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.csproj.CoreCompileInputs.cache
+C:\BuildSchool\北科大\ntut2019\EmptyTaxSample\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.dll
+C:\BuildSchool\北科大\ntut2019\EmptyTaxSample\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\bin\Debug\TaxLibrarySample001.pdb
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.csprojAssemblyReference.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.csproj.CoreCompileInputs.cache
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.dll
+C:\Users\awey1\Desktop\Learn\BS_2019_NTUT\C#\Hackthon\TaxSamples\TaxSamples\TaxLibrarySample001\obj\Debug\TaxLibrarySample001.pdb
